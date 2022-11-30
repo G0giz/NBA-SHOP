@@ -401,7 +401,6 @@ html {
   padding-right: 11px;
   background-image: url('/public/image/wallpaper.jpg');
   background-size: cover;
-  height: 100%;
 }
 
 #scroll-container {
