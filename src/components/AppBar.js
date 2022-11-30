@@ -50,7 +50,7 @@ export default function ButtonAppBar(props) {
                         <BasicModal text={'Register'} comp={'logOut'} />
                     </div>
 
-                    <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
+                    <Typography variant="h6" component="div" sx={{ flexGrow: 1 }} onClick={()=>{navigate('/')}}>
                         NewsBa
                     </Typography>
 
